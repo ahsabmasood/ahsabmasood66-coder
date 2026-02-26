@@ -122,4 +122,3 @@ while True:
     show_score()
 
     pygame.display.update()
-    
